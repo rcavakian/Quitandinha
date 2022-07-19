@@ -1,0 +1,14 @@
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\obj\Debug\netcoreapp3.1\Quitandinha.csproj.AssemblyReference.cache
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\obj\Debug\netcoreapp3.1\Quitandinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\obj\Debug\netcoreapp3.1\Quitandinha.AssemblyInfoInputs.cache
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\obj\Debug\netcoreapp3.1\Quitandinha.AssemblyInfo.cs
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\obj\Debug\netcoreapp3.1\Quitandinha.csproj.CoreCompileInputs.cache
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\bin\Debug\netcoreapp3.1\Quitandinha.exe
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\bin\Debug\netcoreapp3.1\Quitandinha.deps.json
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\bin\Debug\netcoreapp3.1\Quitandinha.runtimeconfig.json
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\bin\Debug\netcoreapp3.1\Quitandinha.runtimeconfig.dev.json
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\bin\Debug\netcoreapp3.1\Quitandinha.dll
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\bin\Debug\netcoreapp3.1\Quitandinha.pdb
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\obj\Debug\netcoreapp3.1\Quitandinha.dll
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\obj\Debug\netcoreapp3.1\Quitandinha.pdb
+C:\Users\ravakian\source\repos\Quitandinha\Quitandinha\obj\Debug\netcoreapp3.1\Quitandinha.genruntimeconfig.cache
